@@ -1,3 +1,3 @@
 # Web3 Quick Connect
 
-Quick way to connect to a modern dapps ⚡
+Quick & easy way to connect to modern Ethereum dApps⚡

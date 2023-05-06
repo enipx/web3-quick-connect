@@ -1,7 +1,7 @@
 {
   "name": "web3-quick-connect",
   "version": "1.0.0",
-  "description": "Quick way to connect to a modern dapps ⚡",
+  "description": "Quick & easy way to connect to modern Ethereum dApps⚡",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "repository": "https://github.com/enipx/web3-quick-connect",
