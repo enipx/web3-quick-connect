@@ -27,5 +27,7 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-
+log.yalc
+yalc.lock
+.yalc
 
