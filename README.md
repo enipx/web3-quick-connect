@@ -38,6 +38,13 @@ function Example() {
 }
 ```
 
+## Props
+
+- `connect`: method loads the connect modal.
+- `close`: method closes the connect modal.
+- `connectedWallet`: contains all the information about the currently connected wallet.
+- `wallets`:  contains information about all supported wallets and it details, if available.
+
 ## License
 
 MIT ©
