@@ -45,7 +45,7 @@ export const usePhantom = () => {
 
     toast.show({
       title: 'Connected 🎉',
-      content: `Your wallet was connected successfully. 🚀`,
+      content: `You've successfully connected your wallet 🚀`,
       colorScheme: 'green',
       variant: 'filled',
     });
