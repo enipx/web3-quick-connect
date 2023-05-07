@@ -5,7 +5,6 @@ Quick & easy way to connect to modern Ethereum dApps⚡
 <br />
 <img src="https://res.cloudinary.com/dmsic9qmj/image/upload/v1683477408/web3/web3-quick-connect_adtzdo.png">
 <br />
-<br />
 
 ## Installation
 
